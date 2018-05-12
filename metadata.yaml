@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32717'
     url: http://www.gutenberg.org/2009/agents/32717
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27485#The-Critics-Versus-ShakspereA-Brief-for-the-Defendant
 gutenberg_issued: '2008-12-10'
 gutenberg_type: Text
 identifiers:
